@@ -1,0 +1,11 @@
+employee_id,name,department,manager_id,city
+1,Kavya Kapoor,Operations,,Ahmedabad
+2,Pallavi Mehta,Marketing,1,Panchkula
+3,Riya Kulkarni,Support,1,Chennai
+4,Tanvi Dutta,Support,1,Ludhiana
+5,Meera Iyer,Operations,1,Lucknow
+6,Tarun Bhandari,Support,4,Lucknow
+7,Gaurav Nair,Sales,3,Lucknow
+8,Abhishek Chopra,Marketing,5,Ludhiana
+9,Arjun Saxena,Support,5,Chandigarh
+10,Riya Gupta,Support,5,Mumbai

@@ -1,0 +1,11 @@
+order_id,customer_id,sales_rep_id,product_category,amount,order_date,status
+1,29,7,Clothing,919.48,2025-07-03,pending
+2,151,22,Clothing,374.17,2025-05-16,completed
+3,108,7,Grocery,1876.88,2025-09-01,completed
+4,132,7,Home & Kitchen,6889.68,2025-04-24,cancelled
+5,187,22,Electronics,21045.48,2025-01-16,completed
+6,217,25,Books,696.21,2025-02-25,completed
+7,19,7,Books,550.28,2025-03-17,completed
+8,160,22,Home & Kitchen,5837.39,2025-11-02,completed
+9,130,25,Books,237.95,2025-12-26,completed
+10,167,15,Grocery,1103.67,2026-03-31,completed
